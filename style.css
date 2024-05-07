@@ -49,11 +49,11 @@ nav a{
 
 nav a:hover{
     padding: 5px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(240, 240, 240);
     text-decoration: none;
     color: #2b2929;
     border-radius: 0 5px 0 5px;
-    transition: 0.5s;
+    transition: 0.7s;
 }
 
 /* main */
