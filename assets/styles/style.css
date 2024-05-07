@@ -67,16 +67,17 @@ h1 {
     margin: 20px;
 }
 
-.container-1 {
-
+.container-lado {
+    margin: 20px;
     padding: 30px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
-    text-align: center;
+    justify-content: center;
+    min-width: 320px;
+    max-height: 2560px;
 }
 
-.container-1 p {
+.container-lado p {
     border-radius: 0 15px 0 15px;
     padding: 10px;
     color: #fff;
