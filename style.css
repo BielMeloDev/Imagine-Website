@@ -6,7 +6,7 @@
 }
 
 header {
-    background-color: #FFE34c;
+    background-color: #F9941D;
     display: flex;
     justify-content: space-between;
     padding: 5px;
@@ -59,7 +59,7 @@ nav a:hover{
 /* main */
 
 h1 {
-    color: #2e2e2e;
+    color: #F9941D;
     display: flex;
     justify-content: center;
     margin: 20px;
