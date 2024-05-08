@@ -55,13 +55,14 @@ nav li{
 nav a{
     padding: 5px;
     text-decoration: none;
-    color: #2b2929;
+    color: #e7e7e7;
     border-radius: 5px 0 5px 0;
 }
 
 nav a:hover{
     padding: 5px;
     background-color: rgb(240, 240, 240);
+    color: #151515;
     border-radius: 0 5px 0 5px;
     transition: 0.7s;
 }
