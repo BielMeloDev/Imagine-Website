@@ -12,7 +12,7 @@ header {
     justify-content: space-between;
     padding: 5px;
     min-width: 320px;
-    max-width: 2560px;
+    max-width: 6144px;
 
     position: fixed;
     top: 0;  
@@ -23,6 +23,8 @@ body {
     margin-top: 100px;
     background-color: #f7f5ee;
     font-family: "Poppins";
+    min-width: 320px;
+    max-width: 6144px;
 }
 
 #tellos-logo {
@@ -96,6 +98,15 @@ h1 {
     background-color: rgb(45, 45, 45);
 }
 
+#textmissao {
+    border-radius: 15px 0 0 15px;
+}
+
+#textvisao {
+    border-radius: 0 15px 15px 0;
+    height: 330px;
+}
+
 #h2-val {
     margin: 10px;
     color: #e4e4e4;
@@ -110,7 +121,6 @@ h1 {
     justify-content: center;
     background-color: #c67518;
     border-radius: 15px;
-    
 }
 
 .container-regular p{
@@ -138,6 +148,8 @@ footer {
     color: #fff;
     padding: 20px 0;
     text-align: center;
+    min-width: 320px;
+    max-width: 6144px;
     width: 100%;
     position: absolute;
     bottom: 1;
